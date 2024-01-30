@@ -1,1 +1,1 @@
-This is a stopwatch built withbHTML,CSS and Javascript.
+This is a stopwatch built with HTML,CSS and Javascript.
